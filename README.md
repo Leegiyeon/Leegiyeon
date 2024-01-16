@@ -20,7 +20,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Leegiyeon&show_icons=true&locale=en&theme=blue-green" alt="Leegiyeon" style="height: 121px;" />&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Leegiyeon&show_icons=true&locale=en&layout=compact&theme=blue-green" alt="Leegiyeon" style="height: 121px;" />
   &nbsp;&nbsp;
-  <a href="https://solved.ac/[rldus3512]">
+  <a href="https://solved.ac/rldus3512">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rldus3512" alt="Solved.ac 프로필" style="height: 120px;" />
   </a>  
 </div>
