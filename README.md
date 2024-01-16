@@ -23,6 +23,6 @@
   
   <a href="https://solved.ac/rldus3512">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rldus3512" alt="Solved.ac 프로필" style="height: 120px;" />
-  </a> 
+  </a>
   
 </div>
