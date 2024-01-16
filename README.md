@@ -6,6 +6,7 @@
 
 ---
 
+
 <div align = 'center'>
   
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLeegiyeon%2Fhit-counter&count_bg=%233D9EC8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://hits.seeyoufarm.com)
@@ -14,10 +15,12 @@
 
 ---
 
-<div align = 'center'>
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leegiyeon&show_icons=true&theme=blue-green&height=150)
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leegiyeon&layout=compact&theme=blue-green&height=200)](https://github.com/Leegiyeon/github-readme-stats)
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Leegiyeon&show_icons=true&locale=en&theme=blue-green" alt="Leegiyeon" style="height: 121px;" />&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Leegiyeon&show_icons=true&locale=en&layout=compact&theme=blue-green" alt="Leegiyeon" style="height: 121px;" />
+  &nbsp;&nbsp;
+  <a href="https://solved.ac/{rudejrqkr97}">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rldus3512" alt="Solved.ac 프로필" style="height: 120px;" />
+  </a>  
 </div>
