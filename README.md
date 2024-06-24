@@ -30,22 +30,32 @@
 
 # Project List
 
-## **집단 지성을 위한 지식 관리 시스템** <br>
-> 프로젝트 Repository URL: [URL](https://github.com/beyond-sw-camp/be04-fin-Triumers-KMS)<br>
+## **KMS** <br>
+> 프로젝트 Repository URL: [KMS](https://github.com/beyond-sw-camp/be04-fin-Triumers-KMS)<br>
 > 프로젝트 수행기간: 2024.04.17 ~ 2024.06.14(2개월)<br>
-> 소개: <br>
+> 소개: 집단 지성을 위한 지식 관리 시스템<br>
 > 개발 환경: Java, Vue.js<br>
 > 인력 구성: <br>
 > 담당 업무: 서비스 기획, 개발 형상 관리, CI/CD, 기능단위 Backend 개발
 
-<br><br>
+<br>
 
 ## **Newsnippet** <br>
-> 프로젝트 Repository URL: [URL](https://github.com/beyond-sw-camp/be04-4th-Triumers-Newsnippet)<br>
-> 프로젝트 수행기간: 2024.02.26 ~ 2024.03.11 (2주)<br>
+> 프로젝트 Repository URL: [Newsnippet](https://github.com/beyond-sw-camp/be04-4th-Triumers-Newsnippet)<br>
+> 프로젝트 수행기간: 2024.04.08 ~ 2024.04.17 (10일)<br>
 > 소개: 최신 시사문제를 풀어볼 수 있는 서비스<br>
 > 개발 환경: Java, Vue.js<br>
 > 인력 구성: <br>
 > 담당 업무: 서비스 기획, 개발 형상 관리, CI/CD, 기능단위 Backend 개발
 
-<br><br>
+<br>
+
+## **Tempository** <br>
+> 프로젝트 Repository URL: [Tempository](https://github.com/beyond-sw-camp/be04-2nd-if-1OR1-Tempository)<br>
+> 프로젝트 수행기간: 2024.02.26 ~ 2024.03.11 (2주)<br>
+> 소개: 프로젝트 운영과정을 Template으로 제공하고, 프로젝트 완료 시, 문서로 저장하여 이력을 활용할 수 있도록 하는 서비스<br>
+> 개발 환경: Java, Vue.js<br>
+> 인력 구성: <br>
+> 담당 업무: 서비스 기획, 개발 형상 관리, 기능단위 Frontend, Backend 개발
+
+<br>
