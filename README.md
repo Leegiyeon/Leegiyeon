@@ -28,6 +28,8 @@
 
 <br>
 
+<div align = 'center'>
+  
 ### Stack
 [![My Skills](https://skillicons.dev/icons?i=java,spring,py,mysql,git,github,githubactions,docker,aws)](https://skillicons.dev)
 
@@ -37,6 +39,7 @@
 ### OS Env
 [![My Skills](https://skillicons.dev/icons?i=apple,windows,linux)](https://skillicons.dev)
 
+</div>
 
 # Project
 <details>
