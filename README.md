@@ -29,7 +29,7 @@
 <br>
 
 ### Stack
-[![My Skills](https://skillicons.dev/icons?i=java,spring,py,mysql,git,github,githubactions,docker,aws&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,py,mysql,git,github,githubactions,docker,aws)](https://skillicons.dev)
 
 ### Tools
 [![My Skills](https://skillicons.dev/icons?i=idea,vscode,notion,discord)](https://skillicons.dev)
