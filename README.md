@@ -37,7 +37,7 @@
 [![My Skills](https://skillicons.dev/icons?i=github,idea,pycharm,vscode,notion,discord)](https://skillicons.dev)
 
 ### OS Env
-[![My Skills](https://skillicons.dev/icons?i=apple,windows,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=apple,windows,linux,ubuntu)](https://skillicons.dev)
 
 </div>
 
