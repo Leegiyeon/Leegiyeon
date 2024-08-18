@@ -31,10 +31,10 @@
 <div align = 'center'>
   
 ### Stack
-[![My Skills](https://skillicons.dev/icons?i=java,spring,py,mysql,git,github,githubactions,docker,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,py,mysql,git,githubactions,docker,aws)](https://skillicons.dev)
 
 ### Tools
-[![My Skills](https://skillicons.dev/icons?i=idea,vscode,notion,discord)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,idea,pycharm,vscode,notion,discord)](https://skillicons.dev)
 
 ### OS Env
 [![My Skills](https://skillicons.dev/icons?i=apple,windows,linux)](https://skillicons.dev)
