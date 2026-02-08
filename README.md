@@ -1,85 +1,127 @@
-<div align = 'center'>
-  
-  ![header](https://capsule-render.vercel.app/api?type=soft&color=66CDAA&height=300&section=header&text=Giyeon's-Github&fontSize=80)
+<div align="center">
+
+![header](https://capsule-render.vercel.app/api?type=soft&color=66CDAA&height=260&section=header&text=Giyeon's%20Github&fontSize=70&fontAlignY=40)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### About
+운영 관점을 바탕으로 **요구사항을 구조화하고, 시스템을 설계·검토·개선하는 IT 실무자**입니다.  
+백엔드/인프라 경험을 기반으로 **서비스 흐름, 보안/운영 기준, 배포 자동화, 데이터 활용**까지 연결해 왔습니다.  
+현재는 개발을 넘어 **업무-기술-운영 간 간극을 줄이는 기획/조율 역할**에 집중하고 있습니다.
 
 </div>
 
 ---
 
+## Focus
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>What I Do</h3>
+      <ul>
+        <li>요구사항 정리 및 기능/정책 구조 설계</li>
+        <li>서비스 운영 관점의 아키텍처/인프라 검토</li>
+        <li>보안/운영 기준 준수 점검 및 문서화</li>
+        <li>CI/CD 및 배포 자동화, 운영 효율 개선</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h3>What I’m Interested In</h3>
+      <ul>
+        <li>RAG 기반 지식 검색/응답 품질 개선</li>
+        <li>Vector DB 활용(임베딩/검색 성능/운영)</li>
+        <li>비용/성능/보안 균형을 고려한 시스템 설계</li>
+        <li>조직 내 다수 모델/서비스 확장 전략</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Tech
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Leegiyeon&show_icons=true&locale=en&theme=blue-green" alt="Leegiyeon" style="height: 121px;" />&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Leegiyeon&show_icons=true&locale=en&layout=compact&theme=blue-green" alt="Leegiyeon" style="height: 121px;" />
-  &nbsp;&nbsp;
-  
-  <a href="https://solved.ac/rldus3512">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rldus3512" alt="Solved.ac 프로필" style="height: 121px;" />
-  </a>
-  
-</div>
 
-<br>
-
-<div align = 'center'>
-  
-### Stack
+#### Core
 [![My Skills](https://skillicons.dev/icons?i=java,spring,py,mysql,git,githubactions,docker,aws)](https://skillicons.dev)
 
-### Tools
+#### Tools
 [![My Skills](https://skillicons.dev/icons?i=github,idea,pycharm,vscode,notion,discord)](https://skillicons.dev)
 
-### OS Env
+#### OS
 [![My Skills](https://skillicons.dev/icons?i=apple,windows,linux,ubuntu)](https://skillicons.dev)
 
 </div>
 
-# Project
+---
+
+## Experience Snapshot
+
+<table>
+  <tr>
+    <td width="33%">
+      <h4>System Planning</h4>
+      <p>요구사항을 기준으로 기능/정책을 구조화하고, 이해관계자 간 합의 가능한 산출물로 정리합니다.</p>
+    </td>
+    <td width="33%">
+      <h4>Ops & Security</h4>
+      <p>운영/보안 기준을 고려해 서버 구성·배포·접근통제·백업 등 운영 현실에 맞는 검토를 수행합니다.</p>
+    </td>
+    <td width="33%">
+      <h4>AI & Data PoC</h4>
+      <p>문서/지식 기반 검색(RAG), Vector DB를 활용한 PoC에서 품질·성능·운영성 관점의 개선을 시도합니다.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Selected Projects
+
+> 아래는 “대표 프로젝트”만 간결히 정리했습니다. (상세는 Repo에서 확인하실 수 있습니다)
+### 일하영 — 청년 일경험·프로젝트 매칭 서비스
+- Repo: https://github.com/Leegiyeon/ilhayoung-web
+- Period: 2025.06 ~ 2025.07
+- Role: 서비스 기획, 시스템 구조 설계, Backend/Infra 구성 
+- Highlights:  
+  - 사용자(청년)–기관–프로젝트 간 흐름을 기준으로 요구사항 구조화  
+  - 프로젝트 정보·사용자 맥락을 고려한 AI 기반 추천/안내 구조 설계  
+  - 단일 서비스가 아닌 **확장 가능한 플랫폼 관점**에서 기능·운영 기준 정리  
+- Stack: FastAPI, Python, Vercel
+
+### Jiwoo — AI 서비스(1인 창업 지원)
+- Repo: https://github.com/AI-Jiwoo/Jiwoo  
+- Period: 2024.07.14 ~ 2024.08.15  
+- Role: 서비스 기획, 형상관리, CI/CD, Backend 개발, AI 서버/Vector DB 환경 구성  
+- Highlights: 운영 기준을 고려한 배포 자동화, 데이터 검색 기반 응답 구조 설계  
+- Stack: Java, Spring Boot, Python, Milvus, AWS EC2, Docker, GitHub Actions
+
+### KMS — 지식 관리 시스템
+- Repo: https://github.com/beyond-sw-camp/be04-fin-Triumers-KMS  
+- Period: 2024.04.17 ~ 2024.06.14  
+- Role: 서비스 기획, 형상관리, CI/CD, Backend 개발  
+- Highlights: 협업 환경에서의 개발 프로세스 정리, 배포 흐름 자동화  
+- Stack: Java, Spring Boot, Vue.js, AWS, GitHub Actions
+
 <details>
-  <summary>List</summary>
-  
-## <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1586271553/noticon/nus6dsqgee1cfqy78el1.gif" width="30" /> **Jiwoo** <br>
-> 프로젝트 Repository URL: [Jiwoo](https://github.com/AI-Jiwoo/Jiwoo)<br>
-> 프로젝트 수행기간: 2024.07.14 ~ 2024.08.15(1개월)<br>
-> 소개: 1인 창업 지원 AI 서비스<br>
-> 개발 환경: Java, React.js, Python<br>
-> 배포 환경: AWS EC2, Github Actions<br>
-> 인력 구성: 백엔드 3명, 프론트엔드 1명<br>
-> 담당 업무: 서비스 기획, 개발 형상 관리, CI/CD, 기능단위 Backend 개발, AI 서버 및 VectorDB 환경 구축<br>
-> 기술 스택: <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/Python-D49137?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Milvus-2088FF?style=flat&logo=milvus&logoColor=white"/> <img src="https://img.shields.io/badge/React.js-66CDAA?style=flat&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/Flutter-66CDAA?style=flat&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=flat&logo=amazonec2&logoColor=white" /> <img src="https://img.shields.io/badge/Amazon%20RDS-527FFF?style=flat&logo=amazonrds&logoColor=white"/> <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white"/>
+  <summary><b>More Projects</b></summary>
 
-<br>
+### Newsnippet — 시사문제 풀이 서비스
+- Repo: https://github.com/beyond-sw-camp/be04-4th-Triumers-Newsnippet  
+- Period: 2024.04.08 ~ 2024.04.17  
+- Role: 서비스 기획, 형상관리, CI/CD, Backend 개발  
+- Stack: Java, Spring Boot, Vue.js, Docker, Kubernetes, Jenkins
 
-## <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1673344675/noticon/ftoiwdw09co3cunifudf.gif" width="30" /> **KMS** <br>
-> 프로젝트 Repository URL: [KMS](https://github.com/beyond-sw-camp/be04-fin-Triumers-KMS)<br>
-> 프로젝트 수행기간: 2024.04.17 ~ 2024.06.14(2개월)<br>
-> 소개: 집단 지성을 위한 지식 관리 시스템<br>
-> 개발 환경: Java, Vue.js<br>
-> 배포 환경: AWS Elasticbeanstalk(EC2, S3), Github Actions<br>
-> 인력 구성: 5명(기능단위 업무 배분)<br>
-> 담당 업무: 서비스 기획, 개발 형상 관리, CI/CD, 기능단위 Backend 개발<br>
-> 기술 스택: <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon%20Elastic%20Beanstalk-FF9900?style=flat&logo=amazonec2&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=flat&logo=amazonec2&logoColor=white" /> <img src="https://img.shields.io/badge/Amazon%20Route%2053-FF9900?style=flat&logo=amazonrds&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon%20RDS-527FFF?style=flat&logo=amazonrds&logoColor=white"/> <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white"/>
+### Tempository — 프로젝트 운영 템플릿 서비스
+- Repo: https://github.com/beyond-sw-camp/be04-2nd-if-1OR1-Tempository  
+- Period: 2024.02.26 ~ 2024.03.11  
+- Role: 서비스 기획, 형상관리, Frontend/Backend 개발  
+- Stack: Java, Spring Boot, Vue.js
 
-<br>
-
-## <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1569044226/noticon/gd4gpu9bem8opqrdbeqk.gif" width="30" /> **Newsnippet** <br>
-> 프로젝트 Repository URL: [Newsnippet](https://github.com/beyond-sw-camp/be04-4th-Triumers-Newsnippet)<br>
-> 프로젝트 수행기간: 2024.04.08 ~ 2024.04.17 (10일)<br>
-> 소개: 최신 시사문제를 풀어볼 수 있는 서비스<br>
-> 개발 환경: Java, Vue.js<br>
-> 배포 환경: Docker, K8s, Jenkins<br>
-> 인력 구성: 5명(기능단위 업무 배분)<br>
-> 담당 업무: 서비스 기획, 개발 형상 관리, CI/CD, 기능단위 Backend 개발<br>
-> 기술 스택: <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white"/> <img src="https://img.shields.io/badge/Jenkins-2088FF?style=flat&logo=jenkins&logoColor=white"/>
-
-<br>
-
-## <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1635067207/noticon/skvxhqthfikal67ospd1.gif" width="30" />  **Tempository** <br>
-> 프로젝트 Repository URL: [Tempository](https://github.com/beyond-sw-camp/be04-2nd-if-1OR1-Tempository)<br>
-> 프로젝트 수행기간: 2024.02.26 ~ 2024.03.11 (2주)<br>
-> 소개: 프로젝트 운영과정을 Template으로 제공하고, 프로젝트 완료 시, 문서로 저장하여 이력을 활용할 수 있도록 하는 서비스<br>
-> 개발 환경: Java, Vue.js<br>
-> 인력 구성: 5명(기능단위 업무 배분)<br>
-> 담당 업무: 서비스 기획, 개발 형상 관리, 기능단위 Frontend, Backend 개발<br>
-> 기술 스택: <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"/> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white"/> 
-
-<br>
 </details>
