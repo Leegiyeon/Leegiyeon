@@ -1,22 +1,23 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=0F766E,14B8A6&height=250&section=header&text=Giyeon's%20Github&fontSize=62&fontColor=ffffff&fontAlignY=40&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=soft&color=0F766E,14B8A6&height=150&section=header&text=Giyeon's%20Github&fontSize=62&fontColor=ffffff&fontAlignY=50&animation=fadeIn)
 
 <br/>
 
-### Designing AI services with operational thinking and structured planning
+### Planning AI services that connect workflow, data, and execution
 
 운영 관점을 바탕으로 요구사항을 구조화하고,  
 서비스 흐름과 시스템 구조를 설계·개선하는 IT 실무자입니다.
 
 백엔드와 인프라 경험을 기반으로  
-기능 구현을 넘어 **업무 흐름, 운영 구조, 데이터 활용, AI 서비스 기획**까지 연결하는 일에 집중하고 있습니다.
+기능 구현을 넘어 **업무 흐름, 운영 구조, 데이터 활용, AI 서비스 기획**까지 연결하는 일에 집중하고 있습니다.  
+현재는 특히 **RAG를 넘어 Agentic AI 구조를 업무형 서비스에 적용하는 방향**에 관심을 두고 있습니다.
 
 <br/>
 
 ![](https://img.shields.io/badge/AI%20Planning-0f172a?style=for-the-badge)
+![](https://img.shields.io/badge/Agentic%20AI-0f172a?style=for-the-badge)
 ![](https://img.shields.io/badge/Service%20Design-0f172a?style=for-the-badge)
-![](https://img.shields.io/badge/Operations-0f172a?style=for-the-badge)
 ![](https://img.shields.io/badge/RAG-0f172a?style=for-the-badge)
 ![](https://img.shields.io/badge/Automation-0f172a?style=for-the-badge)
 
@@ -25,6 +26,7 @@
 ---
 
 ## About
+
 <div align="center">
   
 <table>
@@ -45,7 +47,7 @@
 - AI 기반 서비스 기획
 - 업무형 AI 기능의 실제 적용 구조 설계
 - RAG/Vector DB 기반 검색·응답 경험 고도화
-- 운영 가능한 AI 서비스 구조 정리
+- Agentic AI 기반 업무 지원 흐름 설계
 - 확장성과 지속 운영을 고려한 기획 역량 강화
 
 </td>
@@ -90,12 +92,12 @@
 </td>
 <td width="33%" valign="top">
 
-### Operations
-운영 현실을 기준으로  
-배포, 데이터 흐름, 장애 대응 구조를 함께 고민합니다.
+### Agentic AI
+질의 해석부터 조회, 요약, 후속 액션 연결까지  
+단계적으로 수행하는 업무형 AI 구조를 고민합니다.
 
-![](https://img.shields.io/badge/Ops-166534?style=flat-square)
-![](https://img.shields.io/badge/Automation-166534?style=flat-square)
+![](https://img.shields.io/badge/Planning-166534?style=flat-square)
+![](https://img.shields.io/badge/Tool%20Use-166534?style=flat-square)
 ![](https://img.shields.io/badge/Workflow-166534?style=flat-square)
 
 </td>
@@ -122,12 +124,14 @@ RAG와 Vector DB 기반 서비스에서
 - 외부 연계 데이터를 내부 운영 흐름에 맞게 정리
 - 조건 기반 조회 및 요약 기능으로 확장 가능한 업무 지원 방향 검토
 - 반복적인 운영 업무를 줄이기 위한 자동화 구조 설계
+- 향후에는 사용자 질의를 해석해 필요한 데이터를 조회하고, 핵심 내용을 정리한 뒤 후속 업무까지 연결하는 **Agentic AI 기반 업무 지원 구조**를 검토 중
 
 ### E-Manual 기반 RAG 서비스
 - 사내 매뉴얼 기반 질의응답 서비스 구조 설계
 - PDF 파싱, 청킹, 임베딩, Vector DB 적재, 응답 생성 흐름 분리
 - 근거 기반 응답과 검색 품질 개선 방향 검토
 - 운영 환경 이관을 고려한 표준화 및 구조 정리 진행 중
+- 단순 검색형 응답을 넘어 질문 의도에 따라 검색 전략을 조정하고, 필요한 절차를 단계적으로 제시하는 **Agentic RAG 방향**을 함께 고민 중
 
 ---
 
@@ -178,6 +182,7 @@ RAG와 Vector DB 기반 서비스에서
 - 협업 환경에서 요구사항과 개발 흐름을 구조화
 - 형상관리와 배포 흐름을 정리하며 운영 효율 개선
 - 기능 구현을 넘어 지속적으로 운영 가능한 구조를 고민한 프로젝트
+- 정보 탐색과 협업 흐름 설계를 경험하며 지식 기반 서비스 기획의 기초를 다진 프로젝트
 
 **Stack**  
 ![](https://img.shields.io/badge/Java-134E4A?style=flat-square&logo=openjdk&logoColor=white)
@@ -210,8 +215,8 @@ RAG와 Vector DB 기반 서비스에서
 <div align="center">
 
 ![](https://img.shields.io/badge/AI%20Planning-1f2937?style=flat-square)
+![](https://img.shields.io/badge/Agentic%20AI-1f2937?style=flat-square)
 ![](https://img.shields.io/badge/Service%20Structuring-1f2937?style=flat-square)
-![](https://img.shields.io/badge/Operational%20Thinking-1f2937?style=flat-square)
 ![](https://img.shields.io/badge/Workflow%20Design-1f2937?style=flat-square)
 ![](https://img.shields.io/badge/RAG%20Engineering-1f2937?style=flat-square)
 ![](https://img.shields.io/badge/VectorDB-1f2937?style=flat-square)
